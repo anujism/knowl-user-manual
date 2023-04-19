@@ -1,3 +1,6 @@
+---
+title: Funny Twitter Bot API
+---
 Welcome to the Funny Twitter Bot API! This API allows you to create a hilarious Twitter bot that automatically generates and posts funny tweets. In this documentation, we'll cover the prerequisites, setup instructions, and API endpoints with sample examples.
 
 ## Prerequisites
@@ -47,7 +50,6 @@ pythonCopy code
 **Example:**
 
 ```javascript
-pythonCopy code
 {
   "tweet_frequency": 60,
   "content_source": "jokes"
@@ -78,7 +80,6 @@ pythonCopy code
 **Example:**
 
 ```javascript
-pythonCopy code
 {
   "status": "running"
 }
